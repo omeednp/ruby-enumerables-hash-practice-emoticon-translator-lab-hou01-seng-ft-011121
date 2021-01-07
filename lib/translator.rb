@@ -57,7 +57,7 @@ def get_japanese_emoticon(file, emote)
   
   return "Sorry, that emoticon was not found"
   
-end
+endgame
 
 def get_english_meaning(file, emote)
 
